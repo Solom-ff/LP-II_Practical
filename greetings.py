@@ -15,3 +15,5 @@ def addition():
   num2 = int(input("Enter second number"))
   result = num1 + num2
   return result
+
+greet()
